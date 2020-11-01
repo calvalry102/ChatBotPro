@@ -1,0 +1,58 @@
+Array
+(
+    [coord] => Array
+        (
+            [lon] => 105.84
+            [lat] => 21.02
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 803
+                    [main] => Clouds
+                    [description] => broken clouds
+                    [icon] => 04d
+                )
+
+        )
+
+    [base] => stations
+    [main] => Array
+        (
+            [temp] => 300.15
+            [feels_like] => 302.72
+            [temp_min] => 300.15
+            [temp_max] => 300.15
+            [pressure] => 1013
+            [humidity] => 65
+        )
+
+    [visibility] => 7000
+    [wind] => Array
+        (
+            [speed] => 1.5
+            [deg] => 360
+        )
+
+    [clouds] => Array
+        (
+            [all] => 75
+        )
+
+    [dt] => 1604217222
+    [sys] => Array
+        (
+            [type] => 1
+            [id] => 9308
+            [country] => VN
+            [sunrise] => 1604185155
+            [sunset] => 1604226064
+        )
+
+    [timezone] => 25200
+    [id] => 1581130
+    [name] => Hanoi
+    [cod] => 200
+)
